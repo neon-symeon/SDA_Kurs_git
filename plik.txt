@@ -2,4 +2,3 @@ zmiana w pliku.
 kolejna zmiana do samodzielnego testu
 ta zmiana nie do pokazania.
 a teraz kolejna próba z checkoutem do wykorzystania
-dodanie nowej eksperymentalnej fukncjonalnosci do pliku
